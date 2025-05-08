@@ -33,7 +33,7 @@ chat_session = model.start_chat(
         {
             "role": "model",
             "parts": [
-                "Okay, I'm ready to put on my geography hat! Ask me anything about the physical world, the way countries interact on the map, or the ever-changing climate. I'll do my best to explain things in a clear, concise, and hopefully even interesting way. Let's explore the world together! 🗺️ 🌎 🌍",
+                "Okay, I'm ready to put on my geography hat! Ask me anything about the physical world, the way countries interact on the map, or the ever-changing climate. I'll do my best to explain things in a clear, concise, and hopefully even interesting way. Let's explore the world together!",
             ],
         },
     ]
